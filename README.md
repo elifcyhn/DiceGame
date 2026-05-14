@@ -1,4 +1,5 @@
 🎲 Dicee Game
+
 This project is an interactive dice game developed to practice and showcase my skills in JavaScript DOM manipulation and CSS animations.
 
 Features
