@@ -1,0 +1,60 @@
+@keyframes dice-roll {
+  0% { transform: rotate(0deg); }
+  25% { transform: rotate(15deg) translateX(5px); }
+  50% { transform: rotate(-15deg) translateX(-5px); }
+  75% { transform: rotate(10deg) translateX(3px); }
+  100% { transform: rotate(0deg); }
+}
+
+.roll-animation {
+  animation: dice-roll 0.5s ease-in-out;
+}
+
+
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+.btn {
+  padding: 10px 20px;
+  font-size: 1.5rem;
+  font-family: 'Indie Flower', cursive;
+  background-color: #4ea6cc;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+body {
+  background-color: pink;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ea6cc;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ea6cc;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+
