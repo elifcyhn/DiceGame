@@ -14,9 +14,11 @@ Dynamic Results: Random numbers are generated using JavaScript, and the winner i
 ## Tech Stack
 
 **HTML5:** Semantic structure.
+
 **CSS3:** Custom styling and animations.
+
 **Vanilla JavaScript:** Game logic and DOM updates.
 
 
-🔗 Live Demo
+## 🔗 Live Demo
 You can try out the game here: [https://elifcyhn.github.io/DiceGame/]
